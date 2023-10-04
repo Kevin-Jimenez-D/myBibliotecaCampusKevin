@@ -2,7 +2,16 @@
     "categoria": [],
     "editorial": [],
     "estado-libro": [],
-    "libro": ["Prueba"],
+    "libro": [
+      {
+        "id": 1,
+        "titulo": "Kevin"
+      },
+      {
+        "id": 2,
+        "titulo": "Johan"
+      }
+    ],
     "prestamo": [],
     "reserva": [],
     "autor": [],
